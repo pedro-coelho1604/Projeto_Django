@@ -42,6 +42,7 @@ python manage.py runserver
 Guardar a secret key
 ```
 pip install python-dotenv
+```
 
 ## Gitignore
 
