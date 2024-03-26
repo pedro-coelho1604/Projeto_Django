@@ -29,9 +29,14 @@ Instalar django
 pip install django
 ```
 
-Iniciar projeto 
+Iniciar projeto - configurações do app
 ```
 django-admin startproject setup .
+```
+
+Iniciar app
+```
+python manage.py startapp nome
 ```
 
 Rodar o projeto
@@ -42,6 +47,11 @@ python manage.py runserver
 Guardar a secret key
 ```
 pip install python-dotenv
+```
+
+Manipular os arquivos estáticos
+```
+python manage.py collectstatic
 ```
 
 ## Gitignore
