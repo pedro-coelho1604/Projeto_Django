@@ -1,5 +1,5 @@
 # Projeto em django
-Curso da Alura usando django, com fco em template
+Curso da Alura usando django, com foco em template e boas práticas
 
 ## Ambiente virtual
 
